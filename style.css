@@ -1,0 +1,16 @@
+#div{
+    overflow-x: hidden;
+    height: 200px;
+    border: solid chartreuse;
+}
+.pic{
+    float: left;
+    width: 50%;
+    height: 200px;
+    background-size: contain;
+    overflow: hidden;
+}
+.article{
+    float: left;
+    width: 50%;
+}
